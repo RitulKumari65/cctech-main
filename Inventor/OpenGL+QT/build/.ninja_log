@@ -1,0 +1,9 @@
+# ninja log v6
+10	967	7684698847051308	main_autogen/timestamp	3b36c8ceb7b348a9
+10	967	7684698847051308	main_autogen/mocs_compilation.cpp	3b36c8ceb7b348a9
+10	967	7684698847051308	C:/Users/Ritul Kumari/Documents/Inventor/OpenGL+QT/build/main_autogen/timestamp	3b36c8ceb7b348a9
+10	967	7684698847051308	C:/Users/Ritul Kumari/Documents/Inventor/OpenGL+QT/build/main_autogen/mocs_compilation.cpp	3b36c8ceb7b348a9
+978	4415	7684698848143142	CMakeFiles/main.dir/main_autogen/mocs_compilation.cpp.obj	28f293f7a842c1d5
+985	4459	7684698848212907	CMakeFiles/main.dir/src/robotwidget.cpp.obj	a91213b54ac3a034
+982	4540	7684698848173014	CMakeFiles/main.dir/src/main.cpp.obj	98f420eeface3e75
+4543	4845	7684698883787422	main.exe	9325223af2c0c2ab

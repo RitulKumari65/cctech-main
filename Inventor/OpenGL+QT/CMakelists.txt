@@ -1,0 +1,34 @@
+cmake_minimum_required(VERSION 3.10)
+project(Robot)
+
+# Set C++ standard
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+# Enable Qt features
+set(CMAKE_AUTOUIC ON)
+set(CMAKE_AUTOMOC ON)
+set(CMAKE_AUTORCC ON)
+
+# Include directories
+include_directories(${CMAKE_SOURCE_DIR}/include)
+
+# Find required Qt packages
+find_package(Qt6 REQUIRED COMPONENTS Widgets OpenGLWidgets)
+
+# Source files
+set(SOURCES
+    src/main.cpp
+    src/robotwidget.cpp
+)
+
+# Header files
+set(HEADERS
+    include/robotwidget.h
+)
+
+# Add executable
+add_executable(main WIN32 ${SOURCES} ${HEADERS})
+
+# Link libraries
+target_link_libraries(main PRIVATE Qt6::Widgets Qt6::OpenGLWidgets)

@@ -1,0 +1,61 @@
+# ninja log v6
+9	34	7689287355563308	CMakeFiles/clean.additional	8397e2cd25e26b36
+34	44	7689287355823268	clean	577b940aee94fbd7
+17	1132	7689287368162928	ProjectQT_autogen/timestamp	30ba85bde5a8345c
+17	1132	7689287368162928	ProjectQT_autogen/mocs_compilation.cpp	30ba85bde5a8345c
+17	1132	7689287368162928	C:/Users/Ritul Kumari/Documents/cctech/sketcher1/build/ProjectQT_autogen/timestamp	30ba85bde5a8345c
+17	1132	7689287368162928	C:/Users/Ritul Kumari/Documents/cctech/sketcher1/build/ProjectQT_autogen/mocs_compilation.cpp	30ba85bde5a8345c
+1156	4420	7689287369295629	CMakeFiles/ProjectQT.dir/sketcher.cpp.obj	f5fb93bc08d2ca17
+1142	4770	7689287369155597	CMakeFiles/ProjectQT.dir/ProjectQT_autogen/mocs_compilation.cpp.obj	55f98468178b4215
+1146	4823	7689287369185616	CMakeFiles/ProjectQT.dir/main.cpp.obj	d8c72ab91f6f86fc
+1149	4844	7689287369215612	CMakeFiles/ProjectQT.dir/mainwindow.cpp.obj	b5d208a18b1b71c
+1152	5157	7689287369255615	CMakeFiles/ProjectQT.dir/sketcherwidget.cpp.obj	6b1ae1097a06674e
+5158	5616	7689287409304190	ProjectQT.exe	ee503b63c6664e3c
+13	42	7689289867824721	CMakeFiles/clean.additional	8397e2cd25e26b36
+42	54	7689289868114723	clean	577b940aee94fbd7
+27	1104	7689289880298132	ProjectQT_autogen/timestamp	30ba85bde5a8345c
+27	1104	7689289880298132	ProjectQT_autogen/mocs_compilation.cpp	30ba85bde5a8345c
+27	1104	7689289880298132	C:/Users/Ritul Kumari/Documents/cctech/sketcher1/build/ProjectQT_autogen/timestamp	30ba85bde5a8345c
+27	1104	7689289880298132	C:/Users/Ritul Kumari/Documents/cctech/sketcher1/build/ProjectQT_autogen/mocs_compilation.cpp	30ba85bde5a8345c
+1109	4926	7689289881259551	CMakeFiles/ProjectQT.dir/main.cpp.obj	d8c72ab91f6f86fc
+1106	4958	7689289881229593	CMakeFiles/ProjectQT.dir/ProjectQT_autogen/mocs_compilation.cpp.obj	55f98468178b4215
+1112	5058	7689289881289553	CMakeFiles/ProjectQT.dir/mainwindow.cpp.obj	b5d208a18b1b71c
+1119	5081	7689289881359553	CMakeFiles/ProjectQT.dir/sketcher.cpp.obj	f5fb93bc08d2ca17
+1116	5321	7689289881330042	CMakeFiles/ProjectQT.dir/sketcherwidget.cpp.obj	6b1ae1097a06674e
+5321	6018	7689289923381029	ProjectQT.exe	ee503b63c6664e3c
+14	42	7689294234287180	CMakeFiles/clean.additional	8397e2cd25e26b36
+42	55	7689294234577170	clean	577b940aee94fbd7
+26	1148	7689294247419003	ProjectQT_autogen/timestamp	30ba85bde5a8345c
+26	1148	7689294247419003	ProjectQT_autogen/mocs_compilation.cpp	30ba85bde5a8345c
+26	1148	7689294247419003	C:/Users/Ritul Kumari/Documents/cctech/sketcher1/build/ProjectQT_autogen/timestamp	30ba85bde5a8345c
+26	1148	7689294247419003	C:/Users/Ritul Kumari/Documents/cctech/sketcher1/build/ProjectQT_autogen/mocs_compilation.cpp	30ba85bde5a8345c
+1153	4951	7689294248450172	CMakeFiles/ProjectQT.dir/main.cpp.obj	d8c72ab91f6f86fc
+1156	4964	7689294248480161	CMakeFiles/ProjectQT.dir/mainwindow.cpp.obj	b5d208a18b1b71c
+1149	5001	7689294248410160	CMakeFiles/ProjectQT.dir/ProjectQT_autogen/mocs_compilation.cpp.obj	55f98468178b4215
+1163	5033	7689294248550179	CMakeFiles/ProjectQT.dir/sketcher.cpp.obj	f5fb93bc08d2ca17
+1159	5356	7689294248511582	CMakeFiles/ProjectQT.dir/sketcherwidget.cpp.obj	6b1ae1097a06674e
+5356	6044	7689294290480745	ProjectQT.exe	ee503b63c6664e3c
+16	44	7689297282409028	CMakeFiles/clean.additional	8397e2cd25e26b36
+44	55	7689297282689024	clean	577b940aee94fbd7
+29	1095	7689297294587068	ProjectQT_autogen/timestamp	30ba85bde5a8345c
+29	1095	7689297294587068	ProjectQT_autogen/mocs_compilation.cpp	30ba85bde5a8345c
+29	1095	7689297294587068	C:/Users/Ritul Kumari/Documents/cctech/sketcher1/build/ProjectQT_autogen/timestamp	30ba85bde5a8345c
+29	1095	7689297294587068	C:/Users/Ritul Kumari/Documents/cctech/sketcher1/build/ProjectQT_autogen/mocs_compilation.cpp	30ba85bde5a8345c
+1099	4895	7689297295562747	CMakeFiles/ProjectQT.dir/main.cpp.obj	d8c72ab91f6f86fc
+1096	4960	7689297295532752	CMakeFiles/ProjectQT.dir/ProjectQT_autogen/mocs_compilation.cpp.obj	55f98468178b4215
+1110	4982	7689297295672749	CMakeFiles/ProjectQT.dir/sketcher.cpp.obj	f5fb93bc08d2ca17
+1103	5006	7689297295602792	CMakeFiles/ProjectQT.dir/mainwindow.cpp.obj	b5d208a18b1b71c
+1106	5405	7689297295632751	CMakeFiles/ProjectQT.dir/sketcherwidget.cpp.obj	6b1ae1097a06674e
+5406	6091	7689297338632150	ProjectQT.exe	ee503b63c6664e3c
+16	46	7689301026269783	CMakeFiles/clean.additional	8397e2cd25e26b36
+46	57	7689301026569760	clean	577b940aee94fbd7
+27	1118	7689301038753846	ProjectQT_autogen/timestamp	30ba85bde5a8345c
+27	1118	7689301038753846	ProjectQT_autogen/mocs_compilation.cpp	30ba85bde5a8345c
+27	1118	7689301038753846	C:/Users/Ritul Kumari/Documents/cctech/sketcher1/build/ProjectQT_autogen/timestamp	30ba85bde5a8345c
+27	1118	7689301038753846	C:/Users/Ritul Kumari/Documents/cctech/sketcher1/build/ProjectQT_autogen/mocs_compilation.cpp	30ba85bde5a8345c
+1122	4924	7689301039753763	CMakeFiles/ProjectQT.dir/main.cpp.obj	d8c72ab91f6f86fc
+1126	4995	7689301039783761	CMakeFiles/ProjectQT.dir/mainwindow.cpp.obj	b5d208a18b1b71c
+1119	5044	7689301039723766	CMakeFiles/ProjectQT.dir/ProjectQT_autogen/mocs_compilation.cpp.obj	55f98468178b4215
+1132	5063	7689301039853777	CMakeFiles/ProjectQT.dir/sketcher.cpp.obj	f5fb93bc08d2ca17
+1129	5421	7689301039813780	CMakeFiles/ProjectQT.dir/sketcherwidget.cpp.obj	6b1ae1097a06674e
+5421	6116	7689301082744423	ProjectQT.exe	ee503b63c6664e3c

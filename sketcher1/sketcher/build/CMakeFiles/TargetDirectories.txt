@@ -1,0 +1,9 @@
+C:/Users/Ritul Kumari/Documents/cctech/sketcher/build/CMakeFiles/ProjectQT.dir
+C:/Users/Ritul Kumari/Documents/cctech/sketcher/build/CMakeFiles/edit_cache.dir
+C:/Users/Ritul Kumari/Documents/cctech/sketcher/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Ritul Kumari/Documents/cctech/sketcher/build/CMakeFiles/list_install_components.dir
+C:/Users/Ritul Kumari/Documents/cctech/sketcher/build/CMakeFiles/install.dir
+C:/Users/Ritul Kumari/Documents/cctech/sketcher/build/CMakeFiles/install/local.dir
+C:/Users/Ritul Kumari/Documents/cctech/sketcher/build/CMakeFiles/install/strip.dir
+C:/Users/Ritul Kumari/Documents/cctech/sketcher/build/CMakeFiles/ProjectQT_autogen_timestamp_deps.dir
+C:/Users/Ritul Kumari/Documents/cctech/sketcher/build/CMakeFiles/ProjectQT_autogen.dir

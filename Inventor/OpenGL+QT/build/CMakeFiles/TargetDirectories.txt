@@ -1,0 +1,5 @@
+C:/Users/Ritul Kumari/Documents/Inventor/OpenGL+QT/build/CMakeFiles/main.dir
+C:/Users/Ritul Kumari/Documents/Inventor/OpenGL+QT/build/CMakeFiles/edit_cache.dir
+C:/Users/Ritul Kumari/Documents/Inventor/OpenGL+QT/build/CMakeFiles/rebuild_cache.dir
+C:/Users/Ritul Kumari/Documents/Inventor/OpenGL+QT/build/CMakeFiles/main_autogen_timestamp_deps.dir
+C:/Users/Ritul Kumari/Documents/Inventor/OpenGL+QT/build/CMakeFiles/main_autogen.dir
